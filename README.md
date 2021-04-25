@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🌱 Swift & iOS and learning JavaScript
-- 🤔 I’m planning to integrate a debug kit
-- 🔭 Start working
+- 🤔 I’m planning to develop a debug kit
+- 🔭 Worked for seven years
+- 🍀 Founder of [ZXKit](https://github.com/ZXKitCode)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/)
 
