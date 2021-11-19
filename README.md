@@ -1,7 +1,7 @@
 ### Hi there 👋
 |E|CN|ZXKit|
 |----|----|----|
-|🌱 Swift & OC and learning JavaScript <br/> 🤔 I’m planning to develop a debug kit <br/> 🔭 Worked for seven years <br/> 🍀 Founder of [ZXKit](https://github.com/ZXKitCode) |🌱 Swift & OC & 小程序开发 <br/> 🤔 正在思考新的调试方案 <br/>  🔭 已开发七年 <br/> 🍀 发布了iOS端调试工具库 [ZXKit](https://github.com/ZXKitCode)|![](https://github.com/ZXKitCode/ZXKitSwift/raw/main/readmeResource/zxkit.png)|
+|🌱 Swift & OC and learning JavaScript <br/> 🤔 Planning to develop a debug kit <br/> 🔭 Worked for seven years <br/> 🍀 Founder of [ZXKit](https://github.com/ZXKitCode) |🌱 Swift & OC & 小程序开发 <br/> 🤔 正在思考新的调试方案 <br/>  🔭 已工作七年 <br/> 🍀 已发布iOS端调试工具库 [ZXKit](https://github.com/ZXKitCode)|[![](https://github.com/ZXKitCode/ZXKitSwift/raw/main/readmeResource/zxkit.png)](https://github.com/ZXKitCode)|
 
 
 
