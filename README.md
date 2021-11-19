@@ -1,9 +1,9 @@
 ### Hi there 👋
+|E|CN|
+|----|----|
+| 🌱 Swift & iOS and learning JavaScript <br/> 🤔 I’m planning to develop a debug kit <br/> 🔭 Worked for seven years <br/> 🍀 Founder of [ZXKit](https://github.com/ZXKitCode) | <br/> 🌱 Swift & iOS and learning JavaScript <br/> 🤔 I’m planning to develop a debug kit <br/>  🔭 Worked for seven years <br/> 🍀 Founder of [ZXKit](https://github.com/ZXKitCode)|
 
-- 🌱 Swift & iOS and learning JavaScript
-- 🤔 I’m planning to develop a debug kit
-- 🔭 Worked for seven years
-- 🍀 Founder of [ZXKit](https://github.com/ZXKitCode)
+
 
 |A|B|
 |----|----|
