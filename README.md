@@ -11,7 +11,7 @@
 
 |Langs|Stats|
 |----|----|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/) <img width=350/>|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamonHu&count_private=true&show_icons=true&theme=radical)](/) <img width=350/>|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/) <br/> <img width=350/>|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamonHu&count_private=true&show_icons=true&theme=radical)](/) <br/> <img width=350/>|
 
 
 
