@@ -1,14 +1,17 @@
 ### Hi there 👋
-|Me<div style="width:1500px">|ZXKit|
+
+我是一个来自中国的开发者
+
+|Me|CN|
 |----|----|
-|🌱 Swift & OC and learning JavaScript <br/> 🤔 Planning to develop a debug kit <br/> 🔭 Worked for eight years <br/> 🍀 Founder of [ZXKit](https://github.com/ZXKitCode) <br/> <br/> 🌱 Swift & OC & 小程序开发 <br/> 🤔 正在思考新的调试方案 <br/>  🔭 八年码农，在线耕地 <br/> 🍀 已发布iOS端调试工具库 [ZXKit](https://github.com/ZXKitCode)<br/><img width=350/>|<a href="https://github.com/ZXKitCode"><img src="https://github.com/ZXKitCode/ZXKitSwift/raw/main/readmeResource/zxkit.png" alt="alt text" title="image Title"  width="500px"/></a>|
+|🌱 Swift & OC and learning JavaScript <br/> 🐶 Worked for eight years <br/> 🤠 My blog: [hudongdong.com](https://blog.hudongdong.com) <br/><br/> 🐛 An IOS debugging tool has been released [ZXKit](https://github.com/ZXKitCode) <br/> 🍻Project blog: [zxkit.com](https://zxkit.com/) <div style="width:350px"></div>|🌱 Swift & OC & 小程序开发 <br/> 🐶 八年码农，在线耕地 <br/>  🤠 我的博客: [hudongdong.com](https://blog.hudongdong.com) <br/><br/>🐛 已发布iOS端调试工具 [ZXKit](https://github.com/ZXKitCode) <br/> 🍻项目博客: [zxkit.com](https://zxkit.com/) <div style="width:350px"></div>|
 
 
 
 
 |Langs|Stats|
 |----|----|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/)|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamonHu&count_private=true&show_icons=true&theme=radical)](/)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/) <div style="width:350px"></div>|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamonHu&count_private=true&show_icons=true&theme=radical)](/)<div style="width:350px"></div>|
 
 
 
