@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-> 我是一个来自中国的开发者。菜鸟也会有高飞的一天。
-> I am a developer from China. Rookies will also fly high one day.
+我是一个来自中国的开发者。菜鸟也会有高飞的一天。
+I am a developer from China. Rookies will also fly high one day.
 
 |EN|CN|
 |---|---|
