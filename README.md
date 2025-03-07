@@ -13,7 +13,7 @@ I am a developer from China.
 
 ## Open source
 
-The iOS debugging tool **_[DDKitSwift](https://github.com/DamonHu/DDKitSwift)_** has been released with the following built-in functions:  
+The iOS debugging tool **[DDKitSwift](https://github.com/DamonHu/DDKitSwift)** has been released with the following built-in functions:  
 
 * ♥️ **Collection of common iOS utilities** ☞ [DamonHu/DDUtils](https://github.com/DamonHu/DDUtils)  
 * 🐛 **Log tracking** ☞ [DamonHu/logger](https://github.com/DamonHu/logger)  
