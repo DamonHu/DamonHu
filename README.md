@@ -1,13 +1,19 @@
 ### Hi 👋
 
-我是一个来自中国的开发者。
-I am a developer from China. 
+🇨🇳我是一个来自中国的开发者。
+🇨🇳I am a developer from China. 
 
 ## About me
 
-* 🌱 Swift & OC and learning JavaScript 
-* 🐶 Worked for nine years
-* 🤠 My blog: [dongge.org](https://dongge.org)
+Former mobile game developer transitioned to app development.  
+
+1. 📱Developing iOS apps using Swift and Objective-C.  
+2. 📡Building server APIs with the Vapor framework.  
+3. 🧭Developing web applications with Vue and Nuxt.  
+4. 🔌Proficient in WeChat Mini Programs, Alipay Mini Programs, and Baidu Mini Programs.
+5. 🚩Approaching ten years of experience in the industry. 
+
+💡My personal homepage: [dongge.org](https://dongge.org)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/)
 
