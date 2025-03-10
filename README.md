@@ -1,11 +1,10 @@
 ### Hi 👋
 
-🇨🇳我是一个来自中国的开发者。
-🇨🇳I am a developer from China. 
+🇨🇳我是一个来自中国的开发者。I am a developer from China. 
 
 ## About me
 
-Former mobile game developer transitioned to app development.  
+Former mobile game developer transitioned to an app developer. 
 
 1. 📱Developing iOS apps using Swift and Objective-C.  
 2. 📡Building server APIs with the Vapor framework.  
