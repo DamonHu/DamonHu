@@ -14,8 +14,6 @@ Former mobile game developer transitioned to an app developer.
 
 💡My personal homepage: [dongge.org](https://dongge.org)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DamonHu&layout=compact)](/)
-
 ## Open source
 
 The iOS debugging tool **[DDKitSwift](https://github.com/DamonHu/DDKitSwift)** has been released with the following built-in functions:  
@@ -27,6 +25,4 @@ The iOS debugging tool **[DDKitSwift](https://github.com/DamonHu/DDKitSwift)** h
 * 📂 **Sandbox file browsing** ☞ [DamonHu/DDFileBrowser](https://github.com/DamonHu/DDFileBrowser)  
 * 📋 **UserDefaults data management** ☞ [DamonHu/DDUserDefaultManager](https://github.com/DamonHu/DDUserDefaultManager)  
 * 🌐 **Network request interception and inspection** ☞ [DamonHu/netfox-zxkit](https://github.com/DamonHu/netfox-zxkit)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DamonHu&count_private=true&show_icons=true&theme=radical)](/)
 
