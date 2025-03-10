@@ -6,11 +6,11 @@
 
 Former mobile game developer transitioned to an app developer. 
 
-1. 📱Developing iOS apps using Swift and Objective-C.  
-2. 📡Building server APIs with the Vapor framework.  
-3. 🧭Developing web applications with Vue and Nuxt.  
-4. 🔌Proficient in WeChat Mini Programs, Alipay Mini Programs, and Baidu Mini Programs.
-5. 🚩Approaching ten years of experience in the industry. 
+* 📱Developing iOS apps using Swift and Objective-C.
+* 📡Building server APIs with the Vapor framework.
+* 🧭Developing web applications with Vue and Nuxt.
+* 🔌Proficient in WeChat Mini Programs, Alipay Mini Programs, and Baidu Mini Programs.
+* 🚩Approaching ten years of experience in the industry. 
 
 💡My personal homepage: [dongge.org](https://dongge.org)
 
