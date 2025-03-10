@@ -2,6 +2,8 @@
 
 🇨🇳我是一个来自中国的开发者。I am a developer from China. 
 
+🎉My personal homepage: [dongge.org](https://dongge.org)
+
 ## About me
 
 Former mobile game developer transitioned to an app developer. 
@@ -11,8 +13,6 @@ Former mobile game developer transitioned to an app developer.
 * 🧭Developing web applications with Vue and Nuxt.
 * 🔌Proficient in WeChat Mini Programs, Alipay Mini Programs, and Baidu Mini Programs.
 * 🚩Approaching ten years of experience in the industry. 
-
-💡My personal homepage: [dongge.org](https://dongge.org)
 
 ## Open source
 
