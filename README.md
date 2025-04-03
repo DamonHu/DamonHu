@@ -19,9 +19,9 @@ Former mobile game developer transitioned to an app developer.
 The iOS debugging tool **[DDKitSwift](https://github.com/DamonHu/DDKitSwift)** has been released with the following built-in functions:  
 
 * ♥️ **Collection of common iOS utilities** ☞ [DamonHu/DDUtils](https://github.com/DamonHu/DDUtils)  
-* 🐛 **Log tracking** ☞ [DamonHu/logger](https://github.com/DamonHu/logger)  
-* 📶 **Network ping detection** ☞ [DamonHu/HDPingTools](https://github.com/DamonHu/HDPingTools)  
-* 📱 **FPS monitoring** ☞ [DamonHu/FPS](https://github.com/DamonHu/FPS)  
+* 🐛 **Log tracking** ☞ [DamonHu/DDLoggerSwift](https://github.com/DamonHu/DDLoggerSwift)  
+* 📶 **Network ping detection** ☞ [DamonHu/DDPingTools](https://github.com/DamonHu/DDPingTools)  
+* 📱 **FPS monitoring** ☞ [DamonHu/DDKitFPS](https://github.com/DamonHu/DDKitFPS)
 * 📂 **Sandbox file browsing** ☞ [DamonHu/DDFileBrowser](https://github.com/DamonHu/DDFileBrowser)  
 * 📋 **UserDefaults data management** ☞ [DamonHu/DDUserDefaultManager](https://github.com/DamonHu/DDUserDefaultManager)  
 * 🌐 **Network request interception and inspection** ☞ [DamonHu/netfox-zxkit](https://github.com/DamonHu/netfox-zxkit)
