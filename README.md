@@ -5,7 +5,7 @@ I am a developer from China. My English name is Damon. Because I’m a bit older
 
 ## Homepage
 
-🎉My personal homepage: [DongGe.net](https://dongge.net)
+🎉My personal homepage: [DongGe.net](https://dongge.net), and I occasionally post updates on X as @DamonPlus.
 
 ## About me
 
