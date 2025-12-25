@@ -1,8 +1,8 @@
 ### Hi 👋
 
-🇨🇳我是一个来自中国的开发者。因为虚长几岁,所以会被朋友亲切的称呼东哥，我的英文名字叫Damon.
+🇨🇳我是一个来自中国的开发者。我的英文名字叫Damon。因为虚长几岁，所以也会被朋友亲切的称呼东哥。
 
-I am a developer from China. Because I’m a bit older, my friends affectionately call me “DongGe”, which means “older brother” in Chinese. My English name is Damon.
+I am a developer from China. My English name is Damon. Because I’m a bit older, my friends affectionately call me “DongGe”, which means “older brother” in Chinese. 
 
 🎉My personal homepage: [DongGe.net](https://dongge.net)
 
