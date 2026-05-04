@@ -1,11 +1,11 @@
 ### Hi 👋
 
-I am a developer from China. My English name is Damon. Because I’m a bit older, my friends affectionately call me “DongGe”, which means “older brother” in Chinese. 
-> 我是一个来自中国的开发者。Damon是我的英文名。因为虚长几岁，所以也会被朋友亲切的称呼东哥。
+I'm Damon. I'm from China, and my Chinese name is 胡东东 (pronounced Hu Dongdong).
+> 我是胡东东，一个来自中国的开发者。Damon是我的英文名。
 
 ## Homepage
 
-🎉My personal homepage: [DongGe.net](https://dongge.net), and I occasionally post updates on X as [@DamonPlus](https://x.com/DamonPlus).
+🎉My personal homepage: [hudd.cn](https://hudd.cn), and I occasionally post updates on X as [@DamonPlus](https://x.com/DamonPlus).
 
 ## About me
 
